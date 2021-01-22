@@ -1,5 +1,5 @@
-USER = 'edg105'
-PASSWORD = '8bWmZ[N$E$4Lz/^J'
+USER = ''
+PASSWORD = ''
 HOST = 'localhost'
 PORT = '5439'
 DATABASE = 'powerup'
